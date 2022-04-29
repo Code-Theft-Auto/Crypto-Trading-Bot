@@ -16,11 +16,11 @@ pip install -r requirements.txt
 ### Setup
 
 After installing the dependencies make sure you make a binance account and copy the `binanceapikey` and paste it inside the `yourbinanceapikey` in `config.py` file
-```sh
+```python
 API_KEY = 'yourbinanceapikey'
 ```
 after pasting you api key, copy your `binanceapisecret` and paste it inside `youbinanceapisecret` in `config.py` file
-```sh
+```python
 API_SECRET = 'youbinanceapisecret'
 ```
 
